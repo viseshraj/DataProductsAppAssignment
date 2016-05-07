@@ -12,3 +12,7 @@ The Steps are mentioned below,
 - Select the desired operation
 - Check the checkbox if you need the absolute value
 - Click on Calculate
+
+##ShinyApp.io Link:
+Use the below link to directly access the application hosted on shinyapp.io server
+https://viseshraj.shinyapps.io/Calculator/
